@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="textViewBcakground">#2E30AD</color>
+    <color name="textViewColor">#fff</color>
+    <color name="cardViewColor">#100D3A</color>
+    <color name="cardViewBackground2">#211E55</color>
+    <color name="actionBarthemeColor">#060423</color>
+</resources>
